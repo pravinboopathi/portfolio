@@ -275,7 +275,7 @@ export const projects = [
     title: "Programming Club",
     date: "Apr 2023 - May 2024",
     description:
-      "This is the website for a college club named the Programming Club. I am the chairman of this club, where we conduct various events and functions to engage students and improve their coding knowledge. We built this website using React JS.",
+      "This is the website for a college club named the Programming Club. We conduct various events and functions to engage students and improve their coding knowledge. We built this website using React JS. and Tailwind CSS",
     image:ProclubImg,
     tags: ["React Js", "Tailwind CSS" , "NodeMailer", "Redux", "MongoDB"],
     category: "web app",
